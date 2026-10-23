@@ -19,8 +19,9 @@ boundary cases.
 
 ## Dataset Download
 
-The dataset will be hosted on Hugging Face. The download link will be added
-here once the upload is complete.
+Download the dataset from [Hugging Face: ACERobotics/WorldFailBench](https://huggingface.co/datasets/ACERobotics/WorldFailBench).
+
+[Direct download: dataset.tar.gz](https://huggingface.co/datasets/ACERobotics/WorldFailBench/resolve/main/dataset.tar.gz?download=true)
 
 After downloading `dataset.tar.gz`, extract it with:
 
